@@ -26,16 +26,12 @@ This tool helps detect and visualize these hidden tracking dots for security res
 
 ## 🚀 Installation
 
-1. Clone this repository:
+ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/yellow-dots-decoder.git
+git clone https://github.com/ry2811/YellowDot-Decode.git
 cd yellow-dots-decoder
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## 💡 Usage
 
