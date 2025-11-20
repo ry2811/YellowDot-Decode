@@ -29,7 +29,7 @@ This tool helps detect and visualize these hidden tracking dots for security res
  Clone this repository:
 ```bash
 git clone https://github.com/ry2811/YellowDot-Decode.git
-cd yellow-dots-decoder
+cd YellowDotDecode
 ```
 
 
